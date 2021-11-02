@@ -1,5 +1,7 @@
 # ![ROCKETSEAT](https://raw.githubusercontent.com/huannvictor/maratonaDiscover/2aa4dd2d6a11fed39e05dd672881b79c1657fa93/pictures/logoRocket.svg)
 
+Conteúdo teórico sobre Hardware e Software e como se dá essa interação sob um ponto de vista técnico.
+
 ## Conceitos teóricos abordando: 
 
 * Hardware
